@@ -1,5 +1,5 @@
 **Format**:
-The **water pollution** dataset is in CSV format.
+The **water_potability.csv** dataset is in CSV format.
 There are a total of 3,276 entries or rows, each representing an individual water sample's test result.
 The dataset comprises 10 columns, each a variable pertaining to water quality or portability.
 Fields:
